@@ -1,0 +1,17 @@
+#welcome{
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    font-size: 4rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.name-info{
+    font-size: 1.2rem;
+}
