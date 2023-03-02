@@ -13,9 +13,8 @@ function Contact(){
                 <div className='email-phone'>
                     <div className='contact-line'>
                         <div id='email'>Email: giulianomaradei@gmail.com</div>
-                        <button>
-                            <img src={copy_button} className="copy-button" alt="copy_button"></img>
-                        </button>
+                        <img src={copy_button} className="copy-button" alt="copy_button"></img>
+                        
                     </div>
                     <div className='contact-line'>
                         <div id='phone'>Phone: +55 34 99869-7052</div>
