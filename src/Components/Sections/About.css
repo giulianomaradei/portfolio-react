@@ -1,5 +1,4 @@
 #about{
-    flex-direction: column;
     background-color: #393E46;
 }
 
@@ -10,7 +9,6 @@
     font-size: 3rem;
     height: 30%;
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
     padding: 2rem;
     color: white;
 }
@@ -25,10 +23,9 @@
 
 .image{
     background-color: white;
-    border-radius: 100%;
+    border-radius: 15px;
     padding: 0.5rem;
     height: 13rem;
-    aspect-ratio: 1/1;
 }
 
 .info{

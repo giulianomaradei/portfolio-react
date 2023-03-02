@@ -1,4 +1,6 @@
+
 .technologies{
+    height: 70%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -6,6 +8,14 @@
     align-items: center;
     flex-grow: 1;
     gap: 2rem;
+}
+
+.tech-title{
+    height: 30%;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .tech-area{
@@ -25,4 +35,23 @@
 
 .tech-area__items{
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tech-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem 0rem;
+}
+
+.tech-item__img{
+    height: 3rem;
+    width: auto;
+}
+
+.tech-item__title{
+    color: white;
 }
