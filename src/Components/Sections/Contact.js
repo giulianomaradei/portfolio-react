@@ -53,8 +53,8 @@ function Contact(){
                 </div>
 
                 <div className='social-media'>
-                    <img src={linkedin_logo} className="social-media" alt="linkedin_logo"></img>
-                    <img src={github_logo} className="social-media" alt="github_logo"></img>
+                    <a href='https://www.linkedin.com/in/giuliano-maradei-3a60271b1/' target="_blank"><img src={linkedin_logo} alt="linkedin_logo"></img></a>
+                   <a href='https://github.com/giulianomaradei' target="_blank"><img src={github_logo} alt="github_logo"></img></a>
                 </div>
             </div>
         </Section>
