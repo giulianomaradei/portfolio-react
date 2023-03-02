@@ -1,0 +1,15 @@
+.technologies{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    gap: 2rem;
+}
+
+.tech-area{
+    padding: 1rem;
+    background-color: #393E46;
+    border-radius: 15px;
+}
