@@ -8,9 +8,10 @@
     justify-content: center;
     font-size: 3rem;
     height: 30%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     padding: 2rem;
-    color: white;
+    color: rgb(255, 211, 105);
+
 }
 
 .about-container{
@@ -24,13 +25,14 @@
 .image{
     background-color: white;
     border-radius: 15px;
-    padding: 0.5rem;
-    height: 13rem;
+    padding: 0.2rem;
+    height: 15rem;
 }
 
 .info{
     padding: 2rem;
     max-width: 60%;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    text-align:justify;
     color: white;
 }

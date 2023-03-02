@@ -10,6 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Roboto Slab', sans-serif;
+    color: rgb(255, 211, 105);
 }
 
 .contact-container{
@@ -24,3 +26,32 @@
     text-align: left;
     font-size: 1.5rem;
 }
+
+.copy-button{
+    width: 2rem;
+    margin-left: 10px;
+}
+
+.contact-line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.8rem;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.email-phone :first-child{
+    margin-bottom: 0.8rem;
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
