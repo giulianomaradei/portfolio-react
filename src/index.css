@@ -3,6 +3,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 @font-face {
   font-family: "Roboto Slab";   /*Can be any text*/
   src: local("RobotoSlab-Regular"),

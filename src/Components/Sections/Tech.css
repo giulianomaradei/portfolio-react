@@ -12,4 +12,17 @@
     padding: 1rem;
     background-color: #393E46;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tech-area__title{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.tech-area__items{
+    display: flex;
 }

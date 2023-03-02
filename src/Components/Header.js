@@ -5,10 +5,9 @@ function Header(){
         <header className="header">
             <div className='title'>GMaradei</div>
             <div className='buttons'>
-                <div>About</div>
-                <div>Technologies</div>
-                <div>Projects</div>
-                <div>Contact</div>
+                <a href='#welcome'>Introdução</a>
+                <a href='#about'>Sobre</a>
+                <a href='#tech'>Tecnologias</a>
             </div>
         </header>
     )
