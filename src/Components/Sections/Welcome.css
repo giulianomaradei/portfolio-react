@@ -1,9 +1,9 @@
 .name{
-    font-size: 4rem;
+    font-size: var(--name);
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
 }
 
 .name-info{
-    font-size: 1.2rem;
+    font-size: var(--name-info);
 }

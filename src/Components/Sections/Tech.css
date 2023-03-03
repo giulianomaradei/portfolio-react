@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    align-content: center;
     flex-grow: 1;
     gap: 2rem;
 }
@@ -13,7 +14,7 @@
 .tech-title{
     font-family: 'Roboto Slab', sans-serif;
     height: 30%;
-    font-size: 3rem;
+    font-size: var(--section-title);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +31,7 @@
 .tech-area__title{
     color: white;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: var(--tech-area-title);
     font-weight: bold;
 }
 
@@ -49,7 +50,7 @@
 }
 
 .tech-item__img{
-    height: 3rem;
+    height: var(--tech-item__img);
     width: auto;
 }
 

@@ -5,7 +5,7 @@
 }
 
 .contact-title{
-    font-size: 3rem;
+    font-size: var(--section-title);
     height: 30%;
     display: flex;
     justify-content: center;
@@ -24,7 +24,7 @@
 
 .email-phone{
     text-align: left;
-    font-size: 1.5rem;
+    font-size: var(--email-phone);
 }
 
 .copy-button{
@@ -55,7 +55,7 @@ button {
 }
 
 .social-media img{
-    height: 5.5rem;
+    height: var(--social-media);
     width: auto;
     padding: 1rem;
 }
