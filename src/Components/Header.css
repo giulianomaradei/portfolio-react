@@ -29,7 +29,7 @@
     font-weight: bold;
 }
 
-@media (min-width:960px){
+@media (max-width:768px){
     .buttons a{
         display: none;
     }
