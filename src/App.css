@@ -64,19 +64,19 @@
 
 @media (max-width: 400px){
   :root{
-    --section-title: 3rem;
+    --section-title: 2.5rem;
 
     --header-title:2rem;
     --header-button:0.6rem;
 
-    --name: 4.5rem;
+    --name: 4rem;
     --name-info:1.2rem;
 
-    --info-text: 1.4rem;
-    --image-size: 13rem;
+    --info-text: 1.2rem;
+    --image-size: 11rem;
     
-    --tech-area-title: 1.5rem;
-    --tech-item__img: 3rem;
+    --tech-area-title: 1.3rem;
+    --tech-item__img: 2.5rem;
     
     --email-phone: 1rem;
     --social-media: 4rem;
