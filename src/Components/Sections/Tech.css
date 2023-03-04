@@ -17,7 +17,7 @@
     font-size: var(--section-title);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:center;
 }
 
 .tech-area{
@@ -32,7 +32,7 @@
     color: white;
     text-align: center;
     font-size: var(--tech-area-title);
-    font-weight: bold;
+
 }
 
 .tech-area__items{
@@ -55,6 +55,7 @@
 }
 
 .tech-item__title{
+    font-size: var(--tech-item__title);
     color: white;
 }
 

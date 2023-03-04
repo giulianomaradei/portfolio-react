@@ -41,4 +41,7 @@
     .about-container{
         flex-direction: column;
     }
+    .info{
+        text-align: center;
+    }
 }
