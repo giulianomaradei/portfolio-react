@@ -6,16 +6,15 @@
 
 .contact-title{
     font-size: var(--section-title);
-    height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Roboto Slab', sans-serif;
     color: rgb(255, 211, 105);
+    margin-bottom: 4rem;
 }
 
 .contact-container{
-    height: 70%;
     width: 80%;
     display: flex;
     justify-content:space-between;

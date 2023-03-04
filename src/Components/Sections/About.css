@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;
     font-size: var(--section-title);
-    height: 30%;
+    margin-bottom: 4rem;
     font-family: 'Roboto Slab', sans-serif;
     padding: 2rem;
     color: rgb(255, 211, 105);
@@ -15,7 +15,6 @@
 }
 
 .about-container{
-    height: 70%;
     display: flex;
     flex-direction: row;
     justify-content: center;
