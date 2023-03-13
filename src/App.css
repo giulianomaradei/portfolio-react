@@ -18,29 +18,6 @@
   --social-media: 5.5rem;
 }
 
-
-
-@media (max-width: 769px){
-  :root{
-    --section-title: 3.5rem;
-
-    --header-title:2.5rem;
-    --header-button:1rem;
-
-    --name: 4.5rem;
-    --name-info:1.2rem;
-
-    --info-text: 1.4rem;
-    --image-size: 13rem;
-    
-    --tech-area-title: 1.5rem;
-    --tech-item__img: 3rem;
-    
-    --email-phone: 1.2rem;
-    --social-media: 5rem;
-  }
-}
-
 @media (max-width: 600px){
   :root{
     --section-title: 3rem;
@@ -85,4 +62,26 @@
   
 }
 
+
+
+@media (max-width: 769px){
+  :root{
+    --section-title: 3.5rem;
+
+    --header-title:2.5rem;
+    --header-button:1rem;
+
+    --name: 4.5rem;
+    --name-info:1.2rem;
+
+    --info-text: 1.4rem;
+    --image-size: 13rem;
+    
+    --tech-area-title: 1.5rem;
+    --tech-item__img: 3rem;
+    
+    --email-phone: 1.2rem;
+    --social-media: 5rem;
+  }
+}
 

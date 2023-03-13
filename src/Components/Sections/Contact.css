@@ -1,6 +1,7 @@
 #contact{
     background-color: #393E46;
-    height: 50vh;
+    height: fit-content;
+    margin-bottom: 0;
     color: white;
 }
 
@@ -63,5 +64,14 @@ button {
 @media (max-width:500px){
     .contact-container{
         flex-direction: column;
+    }
+    .contact-title{
+        margin-bottom: 0rem;
+    }
+}
+
+@media (max-width:900px){
+    .contact-title{
+        margin-bottom: 0rem;
     }
 }
