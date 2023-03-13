@@ -1,0 +1,23 @@
+#projects{
+    background-color: #393E46;
+}
+
+.projects-title{
+    font-size: var(--section-title);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Slab', sans-serif;
+    color: rgb(255, 211, 105);
+    margin-bottom: 4rem;
+}
+
+.projects-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    gap: 2rem;
+}
